@@ -1,0 +1,3 @@
+Sitemap: https://ysm.cfpa.team/sitemap.xml
+User-agent:*
+Disallow:
