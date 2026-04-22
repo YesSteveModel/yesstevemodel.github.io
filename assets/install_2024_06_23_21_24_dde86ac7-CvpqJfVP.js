@@ -1,0 +1,1 @@
+const _="/img/notes/wiki/install/install_neoforge_forge_b6b2cb2a.png",i="/img/notes/wiki/install/install_neoforge_forge_0ecff56d.png",s="/img/notes/wiki/install/install_2024_06_23_21_24_dde86ac7.png";export{_,i as a,s as b};
